@@ -1,0 +1,6 @@
+{
+    "watch": ["src", "config", "knexfile.js"  ],
+    "ext": "js",
+    "exec": "node ./src/server.js"
+  }
+  
